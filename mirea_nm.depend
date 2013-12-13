@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1386893123 source:/home/windler/projects/mirea_numeric_methods/main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<iomanip>
+	<cstdlib>
+	"my_math.hpp"
+
+1386893137 /home/windler/projects/mirea_numeric_methods/my_math.hpp
+	<cmath>
+
+1386947901 source:/home/windler/mirea/MIREA-NM/main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<iomanip>
+	<cstdlib>
+	"my_math.hpp"
+
+1386948452 /home/windler/mirea/MIREA-NM/my_math.hpp
+	<cmath>
+
