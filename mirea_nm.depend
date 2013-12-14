@@ -21,14 +21,17 @@
 1386948452 /home/windler/mirea/MIREA-NM/my_math.hpp
 	<cmath>
 
-1386951894 source:/home/aleks/mirea/MIREA-NM/main.cpp
+1386987441 source:/home/aleks/mirea/MIREA-NM/main.cpp
 	<iostream>
 	<cmath>
 	<string>
 	<iomanip>
 	<cstdlib>
 	"my_math.hpp"
+	<limits>
 
-1386963660 /home/aleks/mirea/MIREA-NM/my_math.hpp
+1386988842 /home/aleks/mirea/MIREA-NM/my_math.hpp
 	<cmath>
+	<limits>
+	<iostream>
 

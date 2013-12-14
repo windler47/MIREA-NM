@@ -12,5 +12,6 @@
 *.la
 *.a
 
+*.out
 #directories
 bin/
