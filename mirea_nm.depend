@@ -10,16 +10,19 @@
 1386893137 /home/windler/projects/mirea_numeric_methods/my_math.hpp
 	<cmath>
 
-1386947901 source:/home/windler/mirea/MIREA-NM/main.cpp
+1387068339 source:/home/windler/mirea/MIREA-NM/main.cpp
 	<iostream>
 	<cmath>
 	<string>
 	<iomanip>
 	<cstdlib>
 	"my_math.hpp"
+	<limits>
 
-1386948452 /home/windler/mirea/MIREA-NM/my_math.hpp
+1387073551 /home/windler/mirea/MIREA-NM/my_math.hpp
 	<cmath>
+	<limits>
+	<iostream>
 
 1386987441 source:/home/aleks/mirea/MIREA-NM/main.cpp
 	<iostream>
